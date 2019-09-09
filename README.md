@@ -1,2 +1,3 @@
-# batian
-Audio/Video encoder
+# Batian
+📹The high perfomance media encoding service.
+
